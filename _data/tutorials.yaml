@@ -1,37 +1,28 @@
 - tut:
   title: "Tutorial 0a: Setting Up Your Computer"
   link: t0a/t0a_setting_up_python
-  desc:  This tutorial will walk you through setting Python 3.7 on your computer.
+  desc:  This tutorial will walk you through setting Python 3.7 on your computer
   pic: tut0a.png
 
 - tut:
   title: "Tutorial 0b: Jupyter Notebooks"
   link: t0b/t0b_jupyter_notebooks
-  desc:  This tutorial will walk you through how to use the Jupyter Notebook.
+  desc:  This tutorial will walk you thorugh how to use the Jupyter Notebook
   pic: tut0b.png
 
 - tut:
   title: "Tutorial 0c: A Primer On Python Syntax And Plotting"
   link: t0c/t0c_python_syntax_and_plotting
-  desc:  This tutorial will walk you through how to use the Jupyter Notebook.
+  desc:  This tutorial will walk you thorugh how to use the Jupyter Notebook
   pic: tut0c.png
 
 - tut:
-  title: "Tutorial 1: Forward Euler Integration Method"
-  link: t1/forward_euler
-  desc:  In this tutorial, we will cover how to write a simple numerical integrator using the Forward Euler method to examine the dynamics of exponential growth.
-  pic: tut1.png
-
-- tut:
-  title: "Tutorial 2: Binomial Partitioning"
-  link: t2/binomial_partitioning
-  desc:  In this tutorial, we simulate coin flips and write a function to sample from the binomial distribution.
-  pic: tut2.png
-
-- tut:
-  title: "Tutorial 3: Stochastic Simulation of a Random Walker"
-  link: t3/t03_stochastic_simulations
-  desc:  In this tutorial, we simulate random walkers under different scenarios.
-  pic: tut3.png
-
-
+  title: "Tutorial 1: An Introduction To DNA Sequence Analysis"
+  link: t01/t01_sequence_analysis
+  desc: How did the skinks get to Fernando de Noronha? 
+  pic: skink.png
+  req:
+    - title: Sequences of <i>Mabuya</i> from Fernando de Noronha and around the world
+      storage: local
+      link: "http://rpgroup.caltech.edu/bige105/data/mabuya_atlantica.zip"
+      

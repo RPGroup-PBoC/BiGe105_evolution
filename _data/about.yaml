@@ -3,24 +3,41 @@
 # ------------------------------------------------------------------------------
 # This data file contains all information that will be displayed on the home
 # page of your website. The fields `title` and `authors` are necessary. These
-# keys cannot be changed or they will not be displayed on the website. 
+# keys cannot be changed or they will not be displayed on the website.
 #
 # The remainder of the fileds can be changed to fit your needs. The field name
 # (e.g. abstract, summary, etc) Will appear with as H2 headings on the website.
-# The content below will appear 
+# The content below will appear
 
 title: >
-  BE/APh 161 | Physical Biology of the Cell
+  Bi/Ge 105 \| Evolution
 
 About: >
-  It is a wonderful time to be thinking about the workings of the living world. 
-  Historic advances in molecular biology, structural biology and the use of biophysical 
-  techniques such as optical traps have provided an unprecedented window on the mechanics of the cell. 
-  The aim of this course is to study the cell and its components using whatever tools we need in order 
-  to make quantitative and predictive statements about cellular life. The main intellectual thread of 
-  the course will be the idea that the type of quantitative data which is becoming routine in biology 
-  calls for a corresponding quantitative modeling framework. The plan of this course is to elucidate 
-  general principles with exciting case studies.
+  The objective of this course is to use broad brush strokes to paint a picture
+  of modern thinking on evolution, both of living organisms and the planet they
+  inhabit. The first part of the course will take a decidedly historical and
+  naturalistic perspective, focusing on the timeline of evolution (based on the
+  geological record of fossils and geochemical signatures) and how the natural
+  history of both the inanimate and animate worlds in the hands of Darwin and
+  Wallace (and their distinguished predecessors) led to the articulation of the
+  tenets of evolution by natural selection as well as a picture of a dynamic
+  Earth. This will be followed by an examination of the emergence of modern
+  genetics which gave us a molecular picture of variation. Next, we will
+  undertake a study of the forces of evolution such as selection, drift,
+  migration and mutation and how population genetics provides a quantitative
+  framework for examining the interplay between these forces. With these
+  preliminaries in hand, we will then turn to a variety of case studies in
+  evolution that illustrate the principles of the subject with some of the
+  remarkable studies that have been made to test these ideas. We will close
+  with a discussion of the great human experiment in which human activities
+  have rewritten the story of evolution.
 
 Where and When:  >
-  This course takes place on Mondays and Wednesdays in 100 Broad. Lectures are held from 2:30 to 3:55 PM. Please check the Syllabus page for the tentative days/times of the makeup classes. Homeworks will be posted online Wednesdays after class, and are <b>due the following Wednesday at 2pm</b>.
+  Lectures for this course take place Monday and Wednesday in Broad 100 from
+  1:00 to 2:25 pm. A lab section occurs every Tuesday night from approximately
+  7:00 to 10:00 PM in B115 Braun.
+
+Announcements: >
+
+  * (12/26/2023) \| This website is live! Keep an eye out for updates. Take
+  everything here with a grain of salt
