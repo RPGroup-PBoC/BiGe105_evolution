@@ -1,10 +1,9 @@
-title: APh161
+title: BeGi105
 description: Physical Biology of the Cell 
 baseurl: "/BeGi105" # the subpath of your site, In most cases this can be left blank
 url: "" # Base of your website.In most cases, this will be left blank
 
 # You can include social icons
-site-twitter: #if your site has a twitter account, enter it here
 social-github: RPGroup-PBoC # add your Github handle here.
 email: username@hostname.com
 
