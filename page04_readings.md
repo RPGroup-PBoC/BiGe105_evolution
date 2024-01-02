@@ -13,12 +13,12 @@ specifically mention in class.
 
 {% for pub in site.data.pubs %}
 <article class="post">
-<a class="post-thumbnail" style="background-image: url(http://rpgroup.caltech.edu/bige105/assets/img/{{pub.pic}})" href="http://rpgroup.caltech.edu/bige105/assets/papers/{{pub.file}}"> </a>
+<a class="post-thumbnail" style="background-image: url(http://rpgroup.caltech.edu/BiGe105_evolution/assets/img/{{pub.pic}})" href="http://rpgroup.caltech.edu/BiGe105_evolution/assets/papers/{{pub.file}}"> </a>
 <div class="post-content">
-<b class="post-title"><a href="http://rpgroup.caltech.edu/bige105/assets/papers/{{pub.file}}">{{pub.title}}</a></b>
+<b class="post-title"><a href="http://rpgroup.caltech.edu/BiGe105_evolution/assets/papers/{{pub.file}}">{{pub.title}}</a></b>
 <p>by {{pub.authors}} in <i>{{pub.journal}}</i>, {{pub.vol_iss}} {{pub.year}}.</p>
 <p>•<a href="{{pub.publisher_link}}">Publisher</a><br/></p>
-<p>•<a href="http://rpgroup.caltech.edu/bige105/assets/papers/{{pub.file}}">PDF</a><br/></p>
+<p>•<a href="http://rpgroup.caltech.edu/BiGe105_evolution/assets/papers/{{pub.file}}">PDF</a><br/></p>
 </div>
 </article>
 {%endfor%}
