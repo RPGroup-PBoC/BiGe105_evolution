@@ -13,11 +13,7 @@
 
 - tut:
   title: "Tutorial 1: An Introduction To DNA Sequence Analysis"
-  link: t01/t01_sequence_analysis
+  link: https://colab.research.google.com/drive/1dXH_QyCMkyAYmTfjUQhptHLQFzFbXZLm?usp=sharing
   desc: How did the skinks get to Fernando de Noronha? 
   pic: skink.png
-  req:
-    - title: Sequences of <i>Mabuya</i> from Fernando de Noronha and around the world
-      storage: local
-      link: "http://rpgroup.caltech.edu/bige105/data/mabuya_atlantica.zip"
       
