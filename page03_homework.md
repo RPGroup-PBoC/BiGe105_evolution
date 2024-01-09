@@ -8,6 +8,12 @@ sidebar: true
 
 ---
 
+Unless otherwise noted, homework assignments will be posted here on Wednesday afternoons, and are due the following Wednesday at 12:30pm (half an hour before class).
+
+Don't forget that there will also be occasional reading discussions on Canvas.
+
+To submit your work, please email a PDF to Kian (kian@caltech.edu) with the subject line "[Bi/Ge 105] HW # - FirstName LastName", substituting the assignment number and your actual name.
+
 
 <table>
 <tr>
