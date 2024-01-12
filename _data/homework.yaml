@@ -1,9 +1,12 @@
 - hwk:
   number: 1
   pset: HW_1_BiGe105_2024.pdf
-  reading: Bailey1976.pdf
-  desc: A feeling for the numbers in evolution
   due_date: 1/10/2024
   data:
-    - name: Paper
-      link: Bailey1976.pdf
+  - name: Paper
+    link: Bailey1976.pdf
+
+- hwk:
+  number: 2
+  pset: HW_2_BiGe105_2024.pdf
+  due_date: 1/17/2024
