@@ -1,11 +1,17 @@
-Class 01/08:
+From class:
   - pub:
-    title: On the Law which has Regulated the Introductio of New Species
+    title: What I'd Like to Know About 2105
+    url: http://mermin.lassp.cornell.edu/talk1.pdf
+    authors: N. David Mermin
+    year: 2005
+    desc: A provocative reflection on the past and future of science.
+  - pub:
+    title: On the Law which has Regulated the Introduction of New Species
     url: http://www.esp.org/books/wallace/law.pdf
     authors: Alfred Russel Wallace
     journal: Annals and Magazine of Natural History
     year: 1855
-    desc: Wallace’ Sarawak Law, In other words, new species evolve from existing ones, rather than simply appearing where they are.
+    desc: Wallace’s Sarawak Law: new species evolve from existing ones, rather than simply materializing <i>de novo</i>.
   - pub:
     title: Nextstrain.org
     authors: Trevor Bedford and Richard Neher
@@ -15,14 +21,14 @@ Class 01/08:
     title: <i>E. coli</i> Long Term Evolution Experiment
     authors: Richard Lenski
     url: https://lenski.mmg.msu.edu/ecoli/index.html
-    desc: Over 75000 generations of <i>E. coli</i> growth.
+    desc: Over 75,000 generations of <i>E. coli</i> growth.
   - pub:
     title: "Life-History Evolution in Guppies: 2. Repeatability of held Observations and the Effects of Season on Life Histories"
     authors: David N. Reznick
     url: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1558-5646.1989.tb02575.x
     journal: Evolution
     year: 1989
-    desc: Evolution Experiment, where guppie fish were removed from their lakes and put into lakes downstream of the river. The change in color and size of guppies was tracked over time.
+    desc: Fish were removed from their home lakes and placed into different lakes downstream, resulting in changes in color and size.
   - pub:
     title: "Divergence, Convergence, and the Ancestry of Feral Populations in the Domestic Rock Pigeon"
     authors: Sydney A. Stringham et al.
