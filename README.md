@@ -1,73 +1,17 @@
-# Reproducible Research Website Template
+# Webpage for `BE262`, Physical Biology Bootcamp at Caltech
+### Rob Phillips Group
+### https://www.rpgroup.caltech.edu/be262/
 
-This repository is a bare-bones template website for publishing of your work as
-an interactive website. It's tailored for easy inclusion of data files, plots,
-and interactive figures. It is a heavily modified form of the Jekyll template
-[Flexible Jekyll](https://artemsheludko.github.io/flexible-jekyll/) by
-[`@artemsheludko`](https://github.com/artemsheludko). It is originally published
-under the [GNU General Public License
-v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) and is distributed here
-under the same license terms.
+## How to update/archive website material
+Say we're in year 20XX. To make a new year's offering course webpage for the new year 20XX+1:
+1. First, archive the current/old year's `index.html` page. Do this by making a new directory called the current year, '20XX', and copying the current `index.html` file held at the top level of this `be262` directory into the new directory. (The logic of the whole webpage is that whatever `index.html` is found at the top level is the one served by github pages to visitors to the webpage without a year suffix.)
+	* Note: not essential to get a functional `20XX+1` page up and running, but: to properly archive the old websites so references are intact, you must also copy the contents of `_site/20XX/` into the `_site/20XX+1` folder.
+2. Next, edit the `index.html` file still at the top level of `be262` to indicate the new year, by changing `year: 20XX` to `year: 20XX+1`. 
+3. Now, go to the `_posts` directory. This directory contains the majority of files you would be updating the content of that comprise the website (eg those `About`, `People`, `Programming`, and `Readings` links that populate the left side of the webpage). The webpage framework essentially expects a structure like a blog, so each of the Markdown files in `_posts` contains a date. These dates are arbitrary, except for the fact that the current year's posts must all have the current numerical year correctly specified. So, copy the old/current year's posts---namely, eg `20XX-01-24-readings.md`, `20XX-01-25-code.md`, and so on---into new versions that are renamed with the new year, e.g. `20XX+1-01-24-readings.md`, etc. Next, inside each of these year `20XX+1` post .md files, edit anything that says the old `20XX` year into `20XX+1`: e.g. at the minimum the `tag:` and `year:` attributes at the top of each of the files. But also, for e.g. the `20XX+1-01-24-code.md` file, you'll need to edit a mention in `site.data.20XX.speakers` to `site.data.20XX+1.speakers`, etc. 
+4. That last edit recommends that under `_data`, there will be expected to be a directory with each year where info is to be found. So, cd into `_data` and copy the old year `20XX` directory into a new directory named `20XX+1`. 
+5. Edit these `_data/20XX+1` files accordingly to reflect the new schedule of speakers, the new TA's, any mugshots, etc. Add any new people/speaker mugshots to `be262/images/people/` so you can call them in files found in `_data/20XX+1`; remember that it is strongly recommended that all images are square in aspect ratio to prevent formatting weirdness.
+6. Update anything else with new materials! Remember to commit etc.
 
-This repository is designed to be hosted as a website on GitHub using the
-[GitHub Pages]() hosting service. This service is based on the Ruby framework
-[Jekyll]() which is tailored for blog management. I've made several
-modifications to the structure to be amenable for scientific publications. 
-
-## How Do I Use This?
-
-Full documentation of how to use this repository as either a standalone website
-or as a branch in another repository can be found on the [GitHub Wiki page](https://github.com/gchure/reproducible_website/wiki)
-for this repository. 
-
-## Software requirements 
-
-To deploy locally, you must have a [Ruby development environment]() installed as
-well as [Jekyll](). You can install Jekyll via 
-
-```
-gem install jekyll bundler
-```
-
-Once you have Jekyll installed, you can install of the Ruby requirements for
-this website by running the following in the command line from the template directory:
-
-```
-bundle install
-```
-
-The build and preview the website locally, execute the following:
-
-```
-bundle exec jekyll serve --watch
-```
-
-This will build the website and serve it up at the address:
-[http://127.0.0.1:4000](http://127.0.0.1:4000).
-
-
-## License
-
-This template is a heavily modified version of [Flexible
-Jekyll](https://artemsheludko.github.io/flexible-jekyll/) under a GNU General
-Public License Version 3.0. This template is provided with the same license.
-All writing, logo, and other creative works provided with this template are
-issued with a [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
-
-
-```
-Copyright (C) 2019  Griffin Chure 
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <https://www.gnu.org/licenses/>.
-```
+### Notes about website logic
+- To update information, most of the time you'll modify the entries in this year's appropriate `_posts`, or the data files automatically consulted in `_data/20XX+1`. Git committing should result in a Github page build that is indicated by a little yellow dot (denoting `pending` compilation) that turns to a green checkmark next to your commit status in the main repo page, indicating that the changes have propagated to the live webpage.
+- `Jekyll` automatically compiles the contents of `_site`, so do not directly edit the `.html` files found in this folder (except for perhaps copying into older year directories), because these changes won't reflect in compiling the github page upon every commit. Instead, update the relevant files in `_posts` or in the top level `be262` directory.

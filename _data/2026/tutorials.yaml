@@ -1,0 +1,16 @@
+Tutorials:
+  - script: 
+    title: Tutorial 0.0 -- A Primer On Jupyter Notebooks and Google Colab
+    colab: "https://colab.research.google.com/drive/1uqIm6CJ2FcbYsJ29lCwOefdn-6Nyc5ch?usp=sharing"
+    description: >
+      This tutorial explains what a Jupyter Notebook is and how to use it on Google Colab.
+  - script: 
+    title: Tutorial 0.1 -- A Primer On Python Syntax
+    colab: "https://colab.research.google.com/drive/1Jvi1pCsQ2yjmSwcNRp1K3YsG_DDvcKEA?usp=sharing"
+    description: >
+      This tutorial gives a quick intro to programming in Python. 
+  - script: 
+    title: Tutorial 1 -- An Introduction To DNA Sequence Analysis
+    colab: "https://colab.research.google.com/drive/1dXH_QyCMkyAYmTfjUQhptHLQFzFbXZLm?usp=sharing"
+    description: >
+      How did the skinks get to Fernando de Noronha?  

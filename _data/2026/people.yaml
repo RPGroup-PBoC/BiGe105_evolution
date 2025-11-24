@@ -1,0 +1,32 @@
+- author:
+  name: Rob Phillips
+  link: "https://rpgroup.caltech.edu"
+  title: Instructor
+  img: rob.jpg
+  institute: Division of Biology and Biological Engineering and Department of Physics
+  other_info:
+     Email Address: "phillips [at] pboc [dot] caltech [dot] edu"
+
+- author:
+  name: Victoria Orphan
+  link: "http://orphanlab.caltech.edu/"
+  title: Instructor
+  img: vic.jpg
+  institute: Division of Geological and Planetary Sciences
+  email: vorphan [at] gps [dot] caltech [dot] edu
+
+- author:
+  name: Tom Röschinger
+  title: Graduate TA
+  img: troeschi.jpg
+  institute: Division of Biology and Biological Engineering
+  email: tom [at] caltech [dot] edu
+
+- author:
+  name: Kian Faizi
+  title: Graduate TA
+  img: kfaizi.jpg
+  institute: Division of Biology and Biological Engineering
+  email: kian [at] caltech [dot] edu
+
+
