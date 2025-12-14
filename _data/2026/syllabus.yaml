@@ -1,5 +1,5 @@
 - day:
-  date: 1/3/2024
+  date: 1/5/2026
   week: 1
   topic: >
    Student lightning talks, quiz, VO and RP ‘hurricane’ talks - our thoughts on the subject of evolution
@@ -7,167 +7,170 @@
    See Canvas assignment
 
 - day:
-  date: 1/8/2024
-  week: 2
+  date: 1/7/2026
+  week: 1
   topic: >
    (RP) What is evolution? The facts. The theory. Past, present, future, human impacts
 
 - day:
-  date: 1/9/2024
-  week: 2
-  topic: >
-   <b>Lab:</b> History of life on Earth (Arms 100)
-
-- day:
-  date: 1/10/2024
+  date: 1/12/2026
   week: 2
   topic: >
    (VO) History of life on Earth: Darwin the geobiologist, reading the rock record. Student reenactments - major events in Earth history
-  due: HW 1
 
 - day:
-  date: 1/15/2024
+  date: 1/12/2026
+  week: 2
+  topic: >
+   <b>Lab:</b> 
+
+- day:
+  date: 1/14/2026
+  week: 2
+  topic: >
+   VISIT BY Nick Pyenson. OLD Syllabus:
+   (RP) The theoretical framework for thinking about evolution - variation, heritability, the forces of evolution. Mutation selection, drift, and migration. In class simulation of drift.
+
+- day:
+  date: 1/19/2026
   week: 3
   topic: >
    ---------- no lecture holiday----------
 
 - day:
-  date: 1/16/2024
+  date: 1/21/2026
   week: 3
+  topic: >
+   VISIT BY Geerat Vermeij. OLD Syllabus:
+   (RP) Molecules as documents of evolutionary history: concepts
+
+- day:
+  date: 1/26/2026
+  week: 4
+  topic: >
+   (RP) Molecules as documents of evolutionary history: case studies
+  
+- day:
+  date: 1/26/2026
+  week: 4
   topic: >
    <b>Lab:</b> DNA extraction and Sequencing - I. gDNA extraction
 
 - day:
-  date: 1/17/2024
-  week: 3
-  topic: >
-   (RP) The theoretical framework for thinking about evolution - variation, heritability, the forces of evolution. Mutation selection, drift, and migration. In class simulation of drift
-  due: HW 2
-
-- day:
-  date: 1/22/2024
+  date: 1/28/2026
   week: 4
   topic: >
-   (RP) Molecules as documents of evolutionary history: concepts
+   (VO) Introduction to phylogenetic systematics: primary focus on fossil record/morphological traits. In-class activity with Caminalcules. 
+
   
 - day:
-  date: 1/23/2024
-  week: 4
+  date: 2/2/2026
+  week: 5
+  topic: >
+   (VO) Natural selection and ecological connections
+
+- day:
+  date: 2/2/2026
+  week: 5
   topic: >
    <b>Lab:</b> DNA extraction and Sequencing - II. PCR and electrophoresis
 
 - day:
-  date: 1/24/2024
-  week: 4
-  topic: >
-   (RP) Molecules as documents of evolutionary history: case studies
-
-- day:
-  date: 1/29/2024
+  date: 2/5/2026
   week: 5
   topic: >
-   (VO) Introduction to phylogenetic systematics: primary focus on fossil record/morphological traits. In-class activity with Caminalcules. 
+   (RP) Mechanisms of speciation: eukaryotes
+   
 
 - day:
-  date: 1/30/2024
-  week: 5
+  date: 2/9/2026
+  week: 6
+  topic: >
+   (VO) Speciation in the microbial world
+   
+
+- day:
+  date: 2/9/2026
+  week: 6
   topic: >
    <b>Lab:</b> DNA extraction and Sequencing - III. Sequencing and phylogenetics
 
 - day:
-  date: 1/31/2024
-  week: 5
-  topic: >
-   (VO) Natural selection and ecological connections
-  due: HW 3
-
-- day:
-  date: 2/5/2024
+  date: 2/11/2026
   week: 6
-  topic: >
-   (RP) Mechanisms of speciation: eukaryotes
-
-- day:
-  date: 2/6/2024
-  week: 6
-  topic: >
-   <b>Lab:</b> Visit to the Occidental College bird lab
-
-- day:
-  date: 2/7/2024
-  week: 6
-  topic: >
-   (VO) Speciation in the microbial world
-  due: HW 4
-
-- day:
-  date: 2/12/2024
-  week: 7
   topic: >
    (VO) Evolutionary innovation through microbial symbiosis - I
 
 - day:
-  date: 2/13/2024
+  date: 2/16/2026
   week: 7
-  topic: >
-   <b>Lab:</b> Symbiosis
-
-- day:
-  date: 2/14/2024
-  week: 7
-  topic: >
-   (VO) Evolutionary innovation through microbial symbiosis - II
-
-- day:
-  date: 2/19/2024
-  week: 8
   topic: >
    ---------- no lecture holiday----------
 
+
 - day:
-  date: 2/20/2024
+  date: 2/18/2026
+  week: 7
+  topic: >
+   (VO) Evolutionary innovation through microbial symbiosis - II
+  
+
+
+- day:
+  date: 2/23/2026
   week: 8
+  topic: >
+   (VO) Role of viruses and phages in evolution of eukaryotes, bacteria, and archaea
+   
+
+- day:
+  date: 2/23/2026
+  week: 8
+  topic: >
+   <b>Lab:</b> 
+   
+- day:
+  date: 2/25/2026
+  week: 8
+  topic: >
+   (RP) From land to sea and back again - whales
+  
+
+- day:
+  date: 3/2/2026
+  week: 9
+  topic: >
+   (VO) A plant’s journey from land to sea - seagrass
+  
+
+- day:
+  date: 3/2/2026
+  week: 9
   topic: >
    <b>Lab:</b> Luria-Delbrück - I
 
 - day:
-  date: 2/21/2024
-  week: 8
-  topic: >
-   (VO) Role of viruses and phages in evolution of eukaryotes, bacteria, and archaea
-
-- day:
-  date: 2/26/2024
+  date: 3/5/2026
   week: 9
-  topic: >
-   (RP) From land to sea and back again - whales
-
-- day:
-  date: 2/27/2024
-  week: 9
-  topic: >
-   <b>Lab:</b> Luria-Delbrück - II
-
-- day:
-  date: 2/28/2024
-  week: 9
-  topic: >
-   (VO) A plant’s journey from land to sea - seagrass
-
-- day:
-  date: 3/4/2024
-  week: 10
   topic: >
    (RP) Human evolution - I 
 
 - day:
-  date: 3/5/2024
-  week: 10
-  topic: >
-   <b>Lab:</b>
-
-- day:
-  date: 3/6/2024
+  date: 3/9/2026
   week: 10
   topic: >
    (RP) Human evolution - II 
+  
+
+- day:
+  date: 3/9/2026
+  week: 10
+  topic: >
+   <b>Lab:</b> Luria-Delbrück - II
+
+- day:
+  date: 3/11/2026
+  week: 10
+  topic: >
+   
+
