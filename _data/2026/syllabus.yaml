@@ -11,8 +11,13 @@
   week: 1
   topic: >
    (RP) What is evolution? The facts. The theory. Past, present, future, human impacts
-   
-   
+
+
+- day:
+  date: 1/7/2026
+  week: 1
+  topic: >
+   <b>Lab:</b> History of life on Earth (Arms 100)
 
 - day:
   date: 1/12/2026
@@ -20,11 +25,6 @@
   topic: >
    (VO) History of life on Earth: Darwin the geobiologist, reading the rock record. Student reenactments - major events in Earth history
 
-- day:
-  date: 1/12/2026
-  week: 2
-  topic: >
-   <b>Lab:</b> History of life on Earth (Arms 100)
 
 - day:
   date: 1/14/2026
@@ -32,6 +32,11 @@
   topic: >
    Visit by Nick Pyenson.
    
+- day:
+  date: 1/14/2026
+  week: 2
+  topic: >
+   <b>Lab:<\b>
 
 - day:
   date: 1/19/2026
@@ -44,6 +49,12 @@
   week: 3
   topic: >
    Visit by Geerat Vermeij
+
+- day:
+  date: 1/21/2026
+  week: 2
+  topic: 3
+   <b>Lab:<\b>
    
 
 - day:
@@ -51,20 +62,21 @@
   week: 4
   topic: >
    (VO) Introduction to phylogenetic systematics: primary focus on fossil record/morphological traits. In-class activity with Caminalcules.
-   
-  
-- day:
-  date: 1/26/2026
-  week: 4
-  topic: >
-   <b>Lab:</b> DNA extraction and Sequencing - I. gDNA extraction
+
 
 - day:
   date: 1/28/2026
   week: 4
   topic: >
    (RP) The theoretical framework for thinking about evolution - variation, heritability, the forces of evolution. Mutation selection, drift, and migration. In class simulation of drift.
-    
+
+   
+  
+- day:
+  date: 1/28/2026
+  week: 4
+  topic: >
+   <b>Lab:</b> DNA extraction and Sequencing - I. gDNA extraction
     
 
 - day:
@@ -73,17 +85,18 @@
   topic: >
    (RP) Molecules as documents of evolutionary history: concepts
    
-- day:
-  date: 2/2/2026
-  week: 5
-  topic: >
-   <b>Lab:</b> DNA extraction and Sequencing - II. PCR and electrophoresis
 
 - day:
   date: 2/5/2026
   week: 5
   topic: >
    (RP) Molecules as documents of evolutionary history: case studies
+
+- day:
+  date: 2/5/2026
+  week: 5
+  topic: >
+   <b>Lab:</b> DNA extraction and Sequencing - II. PCR and electrophoresis
    
    
 - day:
@@ -91,13 +104,7 @@
   week: 6
   topic: >
    (VO) Natural selection and ecological connections
-   
 
-- day:
-  date: 2/9/2026
-  week: 6
-  topic: >
-   <b>Lab:</b> DNA extraction and Sequencing - III. Sequencing and phylogenetics
 
 - day:
   date: 2/11/2026
@@ -105,7 +112,12 @@
   topic: >
    (RP) Mechanisms of speciation: eukaryotes
    
-   
+
+- day:
+  date: 2/11/2026
+  week: 6
+  topic: >
+   <b>Lab:</b> DNA extraction and Sequencing - III. Sequencing and phylogenetics
 
 - day:
   date: 2/16/2026
@@ -120,7 +132,12 @@
   topic: >
    (VO) Speciation in the microbial world
   
-
+   
+- day:
+  date: 2/18/2026
+  week: 6
+  topic: >
+   <b>Lab:</b> 
 
 - day:
   date: 2/23/2026
@@ -128,13 +145,7 @@
   topic: >
    (VO) Evolutionary innovation through microbial symbiosis - I
    
-   
-
-- day:
-  date: 2/23/2026
-  week: 8
-  topic: >
-   <b>Lab:</b> 
+  
    
 - day:
   date: 2/25/2026
@@ -142,6 +153,11 @@
   topic: >
    (VO) Evolutionary innovation through microbial symbiosis - II
    
+- day:
+  date: 2/25/2026
+  week: 8
+  topic: >
+   <b>Lab:</b> 
   
 
 - day:
@@ -151,19 +167,18 @@
    (VO) Role of viruses and phages in evolution of eukaryotes, bacteria, and archaea
    
   
+- day:
+  date: 3/4/2026
+  week: 9
+  topic: >
+   (RP) From land to sea and back again - whales
 
 - day:
-  date: 3/2/2026
+  date: 3/4/2026
   week: 9
   topic: >
    <b>Lab:</b> Luria-Delbrück - I
 
-- day:
-  date: 3/5/2026
-  week: 9
-  topic: >
-   (RP) From land to sea and back again - whales
-   
 
 - day:
   date: 3/9/2026
@@ -171,13 +186,6 @@
   topic: >
    (VO) A plant’s journey from land to sea - seagrass
    
-  
-
-- day:
-  date: 3/9/2026
-  week: 10
-  topic: >
-   <b>Lab:</b> Luria-Delbrück - II
 
 - day:
   date: 3/11/2026
@@ -186,3 +194,8 @@
    (RP) Human evolution 
    
 
+- day:
+  date: 3/11/2026
+  week: 10
+  topic: >
+   <b>Lab:</b> Luria-Delbrück - II
