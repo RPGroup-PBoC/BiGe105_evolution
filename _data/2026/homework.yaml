@@ -5,3 +5,9 @@
   data:
   - name: Paper
     link: Bailey1976.pdf
+
+
+- hwk:
+  number: 2
+  pset: homework2.pdf
+  due_date: 1/21/2026
