@@ -96,22 +96,21 @@
   date: 2/9/2026
   week: 6
   topic: >
-   Visit by John McCormick
-   
-
+   (VO) Natural selection and ecological connections
 
 - day:
-  date: 2/11/2026
-  week: 6
-  topic: >
-   (RP) Mechanisms of speciation: eukaryotes
-   
-
-- day:
-  date: 2/11/2026
+  date: 2/9/2026
   week: 6
   topic: >
    <b>Lab:</b> Excursion to Occidental Bird Lab
+
+   
+- day:
+  date: 2/11/2026
+  week: 6
+  topic: >
+   Visit by John McCormick
+   
 
 - day:
   date: 2/16/2026
@@ -124,7 +123,7 @@
   date: 2/18/2026
   week: 7
   topic: >
-   (VO) Natural selection and ecological connections
+   (VO) Speciation in the microbial world
    
    
 - day:
@@ -137,7 +136,7 @@
   date: 2/23/2026
   week: 8
   topic: >
-   (VO) Speciation in the microbial world
+   (RP) Mechanisms of speciation: eukaryotes
    
   
    
@@ -145,20 +144,20 @@
   date: 2/25/2026
   week: 8
   topic: >
-   (VO) Evolutionary innovation through microbial symbiosis - I
-   
+   (RP) From land to sea and back again - whales
+
 - day:
   date: 2/25/2026
   week: 8
   topic: >
-   <b>Lab:</b> Symbiosis 
+   <b>Lab:</b> Luria-Delbrück - I
   
 
 - day:
   date: 3/2/2026
   week: 9
   topic: >
-   (VO) Evolutionary innovation through microbial symbiosis - II
+   (VO) Role of viruses and phages in evolution of eukaryotes, bacteria, and archaea
    
    
   
@@ -166,7 +165,7 @@
   date: 3/4/2026
   week: 9
   topic: >
-   (RP) From land to sea and back again - whales
+   (VO) Evolutionary innovation through microbial symbiosis - I
 
 - day:
   date: 3/4/2026
@@ -179,7 +178,7 @@
   date: 3/9/2026
   week: 10
   topic: >
-   (VO) Role of viruses and phages in evolution of eukaryotes, bacteria, and archaea
+   Galapagos geology lecture
    
 
 - day:
